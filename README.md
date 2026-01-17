@@ -57,3 +57,6 @@ Software
 
 Theme:
 MedTech / BioTech / HealthTech
+
+Process Flow:
+![alt text](<zMemories/LLPF - 2.png>)
