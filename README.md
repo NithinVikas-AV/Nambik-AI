@@ -59,4 +59,4 @@ Theme:
 MedTech / BioTech / HealthTech
 
 Process Flow:
-![Alt text](https://github.com/NithinVikas-AV/Nambik-AI/blob/main/LLPF%20-%202.png)
+![Alt text](https://github.com/NithinVikas-AV/Nambik-AI/blob/main/SIH%202025%20Process%20Flow.png)
